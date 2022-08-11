@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-testing-lab-1" target="11" />
+      <module name="spring-testing-lab-1" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
